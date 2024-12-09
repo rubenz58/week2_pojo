@@ -40,6 +40,8 @@ function countScores(people) {
   }
 
   return obj;
+
+  // Adding code to test git commit system.
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
